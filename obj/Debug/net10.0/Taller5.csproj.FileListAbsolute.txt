@@ -1,0 +1,14 @@
+C:\Users\USUARIO\Downloads\Trabajos Codigo\Taller5\bin\Debug\net10.0\Taller5.exe
+C:\Users\USUARIO\Downloads\Trabajos Codigo\Taller5\bin\Debug\net10.0\Taller5.deps.json
+C:\Users\USUARIO\Downloads\Trabajos Codigo\Taller5\bin\Debug\net10.0\Taller5.runtimeconfig.json
+C:\Users\USUARIO\Downloads\Trabajos Codigo\Taller5\bin\Debug\net10.0\Taller5.dll
+C:\Users\USUARIO\Downloads\Trabajos Codigo\Taller5\bin\Debug\net10.0\Taller5.pdb
+C:\Users\USUARIO\Downloads\Trabajos Codigo\Taller5\obj\Debug\net10.0\Taller5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Downloads\Trabajos Codigo\Taller5\obj\Debug\net10.0\Taller5.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Downloads\Trabajos Codigo\Taller5\obj\Debug\net10.0\Taller5.AssemblyInfo.cs
+C:\Users\USUARIO\Downloads\Trabajos Codigo\Taller5\obj\Debug\net10.0\Taller5.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Downloads\Trabajos Codigo\Taller5\obj\Debug\net10.0\Taller5.dll
+C:\Users\USUARIO\Downloads\Trabajos Codigo\Taller5\obj\Debug\net10.0\refint\Taller5.dll
+C:\Users\USUARIO\Downloads\Trabajos Codigo\Taller5\obj\Debug\net10.0\Taller5.pdb
+C:\Users\USUARIO\Downloads\Trabajos Codigo\Taller5\obj\Debug\net10.0\Taller5.genruntimeconfig.cache
+C:\Users\USUARIO\Downloads\Trabajos Codigo\Taller5\obj\Debug\net10.0\ref\Taller5.dll
